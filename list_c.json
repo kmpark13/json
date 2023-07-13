@@ -3,17 +3,29 @@
 		{
 			"id": 6,
 			"name": "c",
-			"description": "item 0"
+			"description": "item 0",
+			"image": {
+				"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+				"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
+			}
 		},
 		{
 			"id": 7,
 			"name": "c",
-			"description": "item 1"
+			"description": "item 1",
+			"image": {
+				"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+				"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
+			}
 		},
 		{
 			"id": 8,
 			"name": "c",
-			"description": "item 2"
+			"description": "item 2",
+			"image": {
+				"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+				"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
+			}
 		},
 		{
 			"id": 1000,
