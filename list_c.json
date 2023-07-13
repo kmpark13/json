@@ -6,7 +6,7 @@
 			"description": "item 0",
 			"image": {
 				"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
-				"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
+				"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 			}
 		},
 		{
@@ -15,7 +15,7 @@
 			"description": "item 1",
 			"image": {
 				"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
-				"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
+				"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 			}
 		},
 		{
@@ -24,7 +24,7 @@
 			"description": "item 2",
 			"image": {
 				"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
-				"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
+				"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 			}
 		},
 		{
