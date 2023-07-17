@@ -1,6 +1,7 @@
 {
+	"code": 200,
 	"data": {
-		"data": [
+		"list": [
 			{
 				"id": 6,
 				"name": "c",
