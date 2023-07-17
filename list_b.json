@@ -7,7 +7,7 @@
 				"name": "b",
 				"description": "item 0",
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -17,7 +17,7 @@
 				"description": "item 1"
 				,
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -27,7 +27,7 @@
 				"description": "item 2"
 				,
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -37,7 +37,7 @@
 				"description": "item 3"
 				,
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -47,7 +47,7 @@
 				"description": "item 4"
 				,
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -57,8 +57,7 @@
 				"description": "item 5"
 				,
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
-					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
 			{
