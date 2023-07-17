@@ -34,7 +34,7 @@
 				"name": "b",
 				"description": "item 0",
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -43,7 +43,7 @@
 				"name": "b",
 				"description": "item 1",
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -52,7 +52,7 @@
 				"name": "b",
 				"description": "item 2",
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -61,7 +61,7 @@
 				"name": "c",
 				"description": "item 0",
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/ic_launcher.png",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -70,7 +70,7 @@
 				"name": "c",
 				"description": "item 1",
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/ic_launcher.png",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -79,7 +79,7 @@
 				"name": "c",
 				"description": "item 2",
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/ic_launcher.png",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -115,7 +115,7 @@
 				"name": "b",
 				"description": "item 3",
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -124,7 +124,7 @@
 				"name": "b",
 				"description": "item 4",
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			},
@@ -133,7 +133,7 @@
 				"name": "b",
 				"description": "item 5",
 				"image": {
-					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/square.jpeg",
+					"thumbnail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg",
 					"detail": "https://raw.githubusercontent.com/kmpark13/json/main/image/hrectangle.jpeg"
 				}
 			}
