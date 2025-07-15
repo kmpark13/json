@@ -1,0 +1,181 @@
+{
+  "code": 200,
+  "data": {
+    "app_version": "5.13.3.0",
+    "select_update": 0,
+    "is_call_last_alarm": 1,
+    "is_use_ranking": 0,
+    "last_content_no": 4331,
+    "is_display_push_popup": 1,
+    "system_error_msg": "\uc11c\ube44\uc2a4\uac00 \uc9c0\uc5f0\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n\uc7a0\uc2dc \ud6c4\uc5d0 \ub2e4\uc2dc \uc2dc\ub3c4\ud574\uc8fc\uc138\uc694.",
+    "auth_error_msg": "\uc778\uc99d\uc774 \ub9cc\ub8cc\ub418\uc5c8\uc2b5\ub2c8\ub2e4. \ub2e4\uc2dc \ub85c\uadf8\uc778 \ud574\uc8fc\uc138\uc694.",
+    "item_report_msg": {
+      "seller_report_title": "[\uc81c\ud488\uc81c\ubcf4\ud558\uae30] \u2013 \ud310\ub9e4\ud76c\ub9dd\uc790",
+      "seller_report_msg": "",
+      "buyer_report_title": "[\uc81c\ud488\uc81c\ubcf4\ud558\uae30] \u2013 \uad6c\ub9e4\ud76c\ub9dd\uc790",
+      "buyer_report_msg": ""
+    },
+    "customer": {
+      "customer_id": 1,
+      "login_id": "s_customer",
+      "name": "\ud64d\uae38\ub3d9",
+      "masking_name": "\ud64d*\ub3d9",
+      "email": "dffghhg@ccv.com",
+      "phone": "01000000000",
+      "nick": "s_customer",
+      "gender_code": "M",
+      "birth_date": "19870830",
+      "age": 37,
+      "join_date": "2023-09-22",
+      "last_alarm_no": 85742525,
+      "password_change_plan": 0,
+      "last_visit_date": "2025-07-15",
+      "is_certificate": true,
+      "is_snap_terms_agreement": true,
+      "redirect_deeplink": null,
+      "is_push_marketing": false,
+      "is_ad_agree": false,
+      "is_privacy_marketing_agree": true
+    },
+    "report_email": "suggest@soldout.co.kr",
+    "certWebUrl": "https:\/\/qa.soldout.co.kr\/wv\/kmc-certification\/save",
+    "is_display_join_banner": 0,
+    "popup_banner": {
+      "image_path": "https:\/\/dev-img.soldout.co.kr\/items\/2025\/03\/06\/33a530c7-1577-41d6-9d12-6e27cfa66492.png",
+      "left_button": {
+        "link": "",
+        "name": "\uc624\ub298 \ubcf4\uc9c0 \uc54a\uae30"
+      },
+      "right_button": {
+        "link": "",
+        "name": "\ub2eb\uae30"
+      },
+      "id": 3630,
+      "title": "\uae30\ud68d\uc804_\uacbd\ub7c9\ud328\ub529",
+      "deep_link": "msoldoutapp:\/\/webview\/type=1&style=2&header=0&url=https%3A%2F%2Fsvc.soldout.co.kr%2Ftrade%2Fpromotion_plan%2F1945",
+      "list": [
+        {
+          "id": 3630,
+          "title": "\uae30\ud68d\uc804_\uacbd\ub7c9\ud328\ub529",
+          "sub_title": null,
+          "deep_link": "msoldoutapp:\/\/webview\/type=1&style=2&header=0&url=https%3A%2F%2Fsvc.soldout.co.kr%2Ftrade%2Fpromotion_plan%2F1945",
+          "image_path": "https:\/\/dev-img.soldout.co.kr\/items\/2025\/03\/06\/33a530c7-1577-41d6-9d12-6e27cfa66492.png",
+          "image": {
+            "id": 158719,
+            "full_path": "https:\/\/dev-img.soldout.co.kr\/items\/2025\/03\/06\/33a530c7-1577-41d6-9d12-6e27cfa66492.png",
+            "path": "items\/2025\/03\/06\/33a530c7-1577-41d6-9d12-6e27cfa66492.png",
+            "width": 750,
+            "height": 492,
+            "is_main": 0
+          },
+          "ga_code": null
+        },
+        {
+          "id": 3782,
+          "title": "\ud53c\uc2a4\ub9c8\uc774\ub108\uc2a4 \ucd5c\uc800\uac00",
+          "sub_title": null,
+          "deep_link": "msoldoutapp:\/\/webview\/type=1&style=2&header=0&url=https%3A%2F%2Fqa-content.soldout.co.kr%2Fpromotion%2F2023",
+          "image_path": "https:\/\/dev-img.soldout.co.kr\/items\/2025\/03\/06\/38ce30ed-6469-4488-b588-0e45fd3325fe.png",
+          "image": {
+            "id": 158718,
+            "full_path": "https:\/\/dev-img.soldout.co.kr\/items\/2025\/03\/06\/38ce30ed-6469-4488-b588-0e45fd3325fe.png",
+            "path": "items\/2025\/03\/06\/38ce30ed-6469-4488-b588-0e45fd3325fe.png",
+            "width": 750,
+            "height": 492,
+            "is_main": 0
+          },
+          "ga_code": null
+        },
+        {
+          "id": 3606,
+          "title": "\ub178\uc2a4\ud398\uc774\uc2a4 \ucd5c\uc800\uac00\uac31\uc2e0",
+          "sub_title": null,
+          "deep_link": "msoldoutapp:\/\/webview\/type=1&style=2&header=0&url=https%3A%2F%2Fsvc.soldout.co.kr%2Ftrade%2Fpromotion_plan%2F1984",
+          "image_path": "https:\/\/dev-img.soldout.co.kr\/items\/2025\/03\/06\/21cd585b-bb42-489a-9e36-3f1b387247c6.png",
+          "image": {
+            "id": 158720,
+            "full_path": "https:\/\/dev-img.soldout.co.kr\/items\/2025\/03\/06\/21cd585b-bb42-489a-9e36-3f1b387247c6.png",
+            "path": "items\/2025\/03\/06\/21cd585b-bb42-489a-9e36-3f1b387247c6.png",
+            "width": 750,
+            "height": 492,
+            "is_main": 0
+          },
+          "ga_code": null
+        },
+        {
+          "id": 3399,
+          "title": "\uc62c\ube7c\ubbf8\ud61c\ud0dd\uad00",
+          "sub_title": null,
+          "deep_link": "msoldoutapp:\/\/webview\/type=1&style=2&header=0&url=https%3A%2F%2Fsvc.soldout.co.kr%2Ftrade%2Fpromotion_plan%2F1829",
+          "image_path": "https:\/\/dev-img.soldout.co.kr\/items\/2025\/03\/06\/810eb4a3-7cea-45dd-9bbc-46e4744f54b4.png",
+          "image": {
+            "id": 158721,
+            "full_path": "https:\/\/dev-img.soldout.co.kr\/items\/2025\/03\/06\/810eb4a3-7cea-45dd-9bbc-46e4744f54b4.png",
+            "path": "items\/2025\/03\/06\/810eb4a3-7cea-45dd-9bbc-46e4744f54b4.png",
+            "width": 750,
+            "height": 492,
+            "is_main": 0
+          },
+          "ga_code": null
+        },
+        {
+          "id": 3440,
+          "title": "10\uc6d4 \ubb34\ubc30",
+          "sub_title": null,
+          "deep_link": "msoldoutapp:\/\/webview\/type=1&style=2&header=0&url=https%3A%2F%2Fsvc.soldout.co.kr%2Ftrade%2Fpromotion_plan%2F1664",
+          "image_path": "https:\/\/dev-img.soldout.co.kr\/items\/2025\/03\/06\/be7ae05b-f24d-47c9-939b-de6b9a57bf53.png",
+          "image": {
+            "id": 158722,
+            "full_path": "https:\/\/dev-img.soldout.co.kr\/items\/2025\/03\/06\/be7ae05b-f24d-47c9-939b-de6b9a57bf53.png",
+            "path": "items\/2025\/03\/06\/be7ae05b-f24d-47c9-939b-de6b9a57bf53.png",
+            "width": 750,
+            "height": 492,
+            "is_main": 0
+          },
+          "ga_code": null
+        }
+      ]
+    },
+    "app_menu": [
+      {
+        "display_name": "soldout",
+        "is_beta_flag": 0
+      },
+      {
+        "display_name": "store",
+        "is_beta_flag": 1
+      }
+    ],
+    "push_banner": {
+      "cancel_button": {
+        "value": 0,
+        "name": "\uad1c\ucc2e\uc544\uc694"
+      },
+      "terms": [
+        {
+          "title": "\uad11\uace0\uc131 \uc815\ubcf4 \uc218\uc2e0\uc5d0 \ub3d9\uc758\ud560\uac8c\uc694",
+          "url": ""
+        }
+      ],
+      "image_path": "https:\/\/dev-img.soldout.co.kr\/banner\/push_banner_A.png",
+      "ok_button": {
+        "value": 1,
+        "name": "\ub124, \uc54c\ub824\uc8fc\uc138\uc694"
+      },
+      "description": "\ub798\ud50c \ub193\uce58\uc9c0 \uc54a\uac8c \uc54c\ub824\ub4dc\ub9b4\uac8c\uc694",
+      "id": 0,
+      "title": "\uc54c\ub9bc \ubc1b\ub294 \uace0\uac1d\ub2d8\uc740\n100\uc6d0\uc5d0 \uad6c\ub9e4\ud588\uc5b4\uc694"
+    },
+    "allow_webview_domain": [
+      "soldout.co.kr",
+      "musinsa.com",
+      "ftc.go.kr",
+      "instagram.com",
+      "youtube.com",
+      "apps.apple.com",
+      "play.google.com",
+      "pf.kakao.com"
+    ],
+    "splash_image_url": "https:\/\/dev-img.soldout.co.kr\/app_splash\/splash_20250711.png"
+  }
+}
